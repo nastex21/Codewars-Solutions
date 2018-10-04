@@ -6,6 +6,7 @@ The links to the problems:
 6 kyu
 ----
 Array.diff: https://www.codewars.com/kata/523f5d21c841566fde000009
+
 Break camelCase: https://www.codewars.com/kata/5208f99aee097e6552000148
 
 7 kyu
